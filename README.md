@@ -1,6 +1,8 @@
 # Untitled Action Game
 This is the github repository for Untitled Action Game, a Mobile Action game.
 
+```work in progress```
+
 # Credits
 Full credits are in the ```Assets/Data/credits.txt``` file!
 
